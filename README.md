@@ -2,7 +2,7 @@
 
 I am currently a MS student enrolled in the Quantitative Computational Finance program at Georgia Tech. 
 
-Prior to this, I received my Bachelor Degrees in both Economics and Applied Mathematics (double major) at Tsinghua University in 2018 where I worked with [Prof. Michael R.Powers](http://www.sem.tsinghua.edu.cn/en/powers) on the topic of prediction on default risks. I was also a research assistant for Prof. Alexander Cowles White and developed the topic of evolutionary game theory under incomplete information as my bachelor thesis in Economics. Besides, my mathematics bachelor thesis was supervised by Prof. Jiaxin Hu.
+Prior to this, I received my Bachelor Degrees in both Economics and Applied Mathematics (double major) at Tsinghua University in 2018 where I worked with [Prof. Michael R.Powers](http://www.sem.tsinghua.edu.cn/en/powers) on the topic of prediction on default risks. I was also a research assistant for [Prof. Alexander Cowles White](http://alex-white.net) and developed the topic of evolutionary game theory under incomplete information as my bachelor thesis in Economics. Besides, my mathematics bachelor thesis was supervised by Prof. Jiaxin Hu.
 
 You can use the [editor on GitHub](https://github.com/MoyiGuo/research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
