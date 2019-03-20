@@ -6,6 +6,8 @@ Prior to this, I received my Bachelor Degrees in both Economics and Applied Math
 
 You can use the [editor on GitHub](https://github.com/MoyiGuo/research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Link Text](https://github.com/MoyiGuo/research/wiki)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
